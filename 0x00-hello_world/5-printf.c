@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  *main entry point
- *
- *return 0 success
+ *printf prints the message
+ *return :returns always 0 success
  */
 int main(void)
 {
