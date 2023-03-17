@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 /*
-*more headers goes there 
+*more headers goes there
 *main - entry point
 *
 *return: always return 0 (success)
 */
 /*
-*betty style doc for function main goes there 
+*betty style doc for function main goes there
 */
 int main(void)
 {
