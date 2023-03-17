@@ -3,6 +3,7 @@
 #include <time.h>
 /* more headers goes there 
  *main - entry
+ *
  *return: always return 0 (success)
 */
 /* betty style doc for function main goes there */
