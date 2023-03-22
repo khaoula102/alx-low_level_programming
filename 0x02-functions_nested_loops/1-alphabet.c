@@ -2,8 +2,8 @@
 
 /**
  *print_alphabet : prints alphabet in description
- *decription:a function that prints the alphabet in lower case followed by a new line
- *return : return s nothing
+ *decription: prints the alphabet in lower case followed by a new line
+ *Return :  nothing
  */
 
 void print_alphabet(void)
