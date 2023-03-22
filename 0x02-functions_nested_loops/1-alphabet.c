@@ -2,7 +2,8 @@
 
 /**
  *print_alphabet : prints alphabet
- *void does not return
+ *decription of the fct :  a function that prints the alphabet, in lowercase, followed by a new line.
+ *return : void does not return
  */
 
 void print_alphabet(void)
