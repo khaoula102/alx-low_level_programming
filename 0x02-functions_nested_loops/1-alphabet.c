@@ -2,7 +2,7 @@
 
 /**
  *print_alphabet : prints alphabet
- *decription of the fct :  a function that prints the alphabet, in lowercase, followed by a new line.
+ *decription:a function that prints the alphabet in lower case
  *return : void does not return
  */
 
