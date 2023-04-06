@@ -18,7 +18,7 @@ return (wildcmp(p1, p2 + 1));
 return (*p2 == '\0');
 }
 
-if (*s2 == '*')
+if (*p2 == '*')
 {
 return (wildcmp(p1 + 1, p2) || wildcmp(p1, p2 + 1));
 }
