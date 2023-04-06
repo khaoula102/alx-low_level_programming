@@ -2,13 +2,13 @@
 
 /**
 * factorial - returns the factorial of a number
-* @n: number to return the factorial from
+* @t: number to return the factorial from
 *
-* Return: factorial of n
+* Return: factorial of t
 */
 int factorial(int t)
 {
-if (n < 0)
+if (t < 0)
 return (-1);
 if (t == 0)
 return (1);

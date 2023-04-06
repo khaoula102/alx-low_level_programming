@@ -17,7 +17,7 @@ return (actual_prime(a, a - 1));
 
 /**
 * actual_prime - calculates if a number is prime recursively
-* @n: number to evaluate
+* @a: number to evaluate
 * @i: iterator
 *
 * Return: 1 if a is prime, 0 if not
